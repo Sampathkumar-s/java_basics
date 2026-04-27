@@ -1,0 +1,21 @@
+stack is the fastest way of the accessing 
+heap is the long way for accessing the memory
+
+
+ jdk - java development kit
+            jre - java run time enviroment
+            jvm - java virtual machine
+            jit - just in time compiler
+
+            platform independent - write once run anywhere
+            mcc -> byte code (class)-> jvm -> machine code
+
+Concept of DAY-1
+
+            program structure 
+            compile & run 
+            variables
+            data types
+            string & object scp and heap
+            java components
+            jdk,kre,jvm,jit
