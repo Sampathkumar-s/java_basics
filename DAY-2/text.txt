@@ -1,0 +1,34 @@
+main methoad inside a main class,single main methoad in a single code 
+class -1.static class 2.non static - object
+
+object - class name object = new class name()
+
+object store - methoad,variable,
+
+static has a key word of static otherwise it is non static by default
+
+local variable can not be accessed outside of the methoad 
+local variable does not have default value 
+default value of the variable can be access inside of the methoad when it declar as the gobal 
+
+instace variable can be stored inside the class outside of the methoad 
+no static variable can be accessed only from the no static methoad can not able to access from static methoad 
+
+loacl variable 
+
+local variable can not be access from using object outside of the class
+
+instace variable 
+
+instance variable decalre inside of the class outside of the methoad 
+able to access instace variable with object name 
+
+static variable 
+
+the variable can be decalre use static keyword 
+non static feild belongs to object 
+static feild belongs to class 
+
+static variable can be access from non static methoad 
+non static variable can not be access from  static methoad
+
