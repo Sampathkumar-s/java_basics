@@ -34,4 +34,6 @@ non static variable can not be access from  static methoad
 
 with the help of object we can able to access static variable indside main class -> not recommanded 
 access the static variable with class name 
+can not have static varibale as a local variable 
+can able to access the static variable using class name with variable name 
 
