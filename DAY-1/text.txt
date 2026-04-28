@@ -19,3 +19,33 @@ Concept of DAY-1
             string & object scp and heap
             java components
             jdk,kre,jvm,jit
+
+quiz questions 
+            garbage collection and memory allocaion - jvm 
+            jre is not installed but jdk is installed - can run only java program 
+            run java - java filename
+
+    ex:      int value = 0;
+            boolean s = (value != 0); 
+
+            .equal -> compare values
+            primitive == compare value of the variable 
+
+            without inzialization we can able to print if try to print it will show error
+            no "" is need to assign the keywords eg String s = null;
+            .length() - number of charateer in the word it will count the space 
+            .size() - checks how memory allocation 
+            chartAt - index start from 0 -> java chartAt(2) : ans : v
+            .toUpperCase - convert to uppercase 
+            .toLowerCase - convert to lowercase 
+
+            substring(1,2) - 1 -> Starting index,2-> ending index ,ending position excludeded
+            == for string compare refrence stroed in the scp only not the values 
+
+            concat -> add or join the two string
+            equal -> compare the content 
+            compareTo() - > compare two values 
+
+
+
+
