@@ -37,3 +37,6 @@ access the static variable with class name
 can not have static varibale as a local variable 
 can able to access the static variable using class name with variable name 
 
+we can able to change the value of the instance varaiblae with the help of the object 
+
+
