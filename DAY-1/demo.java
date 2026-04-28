@@ -1,11 +1,8 @@
-class demo{
+public class MyClass {
+    String a;              // Instance variable
+    
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        System.out.println("\nTernary Operator");
-        int max = (a > b) ? a : b;
-        System.out.println("Maximum = " + max);
-
-        //System.out.println((a++)+(++b)+(--x));
+        MyClass obj = new MyClass();
+        System.out.print(obj.a);  // ✓ Prints: 0 (default value)
     }
 }
