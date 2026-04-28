@@ -33,10 +33,35 @@ static variable can be access from non static methoad
 non static variable can not be access from  static methoad
 
 with the help of object we can able to access static variable indside main class -> not recommanded 
+if you create the static variable you have only one comman value like a and b 
+both has the same value and pointing the same memory 
 access the static variable with class name 
 can not have static varibale as a local variable 
 can able to access the static variable using class name with variable name 
 
 we can able to change the value of the instance varaiblae with the help of the object 
+we can able to change the static variable value with the help of the object
+static variable value can be change using class name also 
+
+static feild share the storeage 
+non static feild has saparate values 
+
+Constant variable final 
+
+syntax: final int c = 100;
+non static variable 
+final variable can able to access with object name
+final variable can be used as static variable 
+
+
+
+
+mern 
+mean
+django
+flask 
+aiml - supervised learning 
+mern - app development
+
 
 
