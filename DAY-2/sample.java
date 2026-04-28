@@ -13,7 +13,9 @@ class sample2{
     static int b = 30;
 
     void add(){
+        final int c = 40; 
         int a=10;
         System.out.println(a);
+        System.out.println(c);
     }
 }
