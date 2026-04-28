@@ -67,6 +67,7 @@ public class AllOperatorsDemo {
         int max = (a > b) ? a : b;
         System.out.println("Maximum = " + max);
 
+        System.out.println((a++)+(++b)+(--x));
         
     }
 }
