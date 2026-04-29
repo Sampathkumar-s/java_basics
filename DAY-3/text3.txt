@@ -1,0 +1,4 @@
+system.in - getting the input from the terminal 
+system.out - showing the output in the terminal 
+syntax : Scanner varibale_name = new Scanner();
+nextInt - get the value as integer from the user 
