@@ -19,10 +19,10 @@ class userinput{
         String e = s.nextLine();
         
 
-        System.out.println("Name:   "+a);
-        System.out.println("age:    "+b);
-        System.out.println("Ph no:  "+c);
-        System.out.println("Salary: "+d);
-        System.out.println("address:"+e);
+        System.out.println("Name    :"+a);
+        System.out.println("age     :"+b);
+        System.out.println("Ph no   :"+c);
+        System.out.println("Salary  :"+d);
+        System.out.println("address :"+e);
     }
 }
