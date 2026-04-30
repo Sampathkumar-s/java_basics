@@ -21,8 +21,5 @@ class inspection1{
         System.out.println(s.repeat(2));
         System.out.println(s.startsWith(s));
         System.out.println(s.endsWith(s));
-
-
-
     }
 }
