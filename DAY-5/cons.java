@@ -1,5 +1,5 @@
 
-
+// types of constructor 
 class cons{
     public static void main(String[] args) {
         constructors a = new constructors("Sampath"); // sending the string to the constructor 
@@ -13,6 +13,9 @@ class cons{
 class constructors{
     String name;
     String name2;
+    constructors() {
+        
+    }
     constructors(String nm ) {
         name = nm;
     }
