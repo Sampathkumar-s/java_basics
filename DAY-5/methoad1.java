@@ -1,6 +1,7 @@
 import java.util.*;
 class methoad1{
     public static void main(String[] args){
+        
         System.out.print("Enter you task: ");
         Scanner sc = new Scanner(System.in);
         String a = sc.nextLine();
@@ -17,6 +18,7 @@ class todo{
             System.out.println("You not enter any task");
             return;
         }
+
         else{
             System.out.println("your task: "+a);
             System.out.println("Thank you for entering the task");
