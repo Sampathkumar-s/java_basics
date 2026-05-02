@@ -1,0 +1,6 @@
+string array - non primitive -> it helps me to store more than one value 
+non primitive by method call by reference 
+data type of an object is class name  %%
+
+call by value call by reference
+
