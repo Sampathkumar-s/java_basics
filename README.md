@@ -28,6 +28,33 @@ A comprehensive Java certification training program designed to provide a solid 
 - Extended Java programming techniques
 - Complex problem-solving exercises
 
+**DAY-3: Control Flow & Loops**
+- Conditional statements and logic
+- Loop structures (for, while, do-while)
+- Nested loops and complex iterations
+- Leap year calculation and nested conditionals
+- Character validation and voting system logic
+
+**DAY-4: String Methods & User Input**
+- String manipulation methods (compareTo, length, charAt, etc.)
+- User input handling and data validation
+- String inspection and testing
+- Input processing and error handling
+
+**DAY-5: Methods & Object-Oriented Programming**
+- Method definition and invocation
+- Constructors and initialization
+- Method overloading and reusability
+- String manipulation with methods
+- Building practical applications (TodoList)
+
+**DAY-7: Arrays & Collections**
+- Array declaration and initialization
+- Array manipulation and copying
+- Array cloning techniques
+- ArrayList implementation and usage
+- Working with dynamic collections
+
 ## Getting Started
 
 ### Compilation
@@ -53,4 +80,4 @@ java FileName
 
 ---
 
-**Course Version:** 1.0 | **Last Updated:** April 2026
+**Course Version:** 1.0 | **Last Updated:** May 2026
