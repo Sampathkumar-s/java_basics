@@ -16,7 +16,7 @@ class arrlist{
          System.out.println("Removing the Value");
         arr.remove(2);
         System.out.println(arr);
-         System.out.println("Sorting the Array");
+      
         Collections.sort(arr); 
          System.out.println("Sorting the Array");
          System.out.println(arr);
