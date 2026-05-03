@@ -1,0 +1,7 @@
+getter methoad helps to access the private variable ouside of the class using methoad name 
+setter helps us to moddify the data outside of the class  
+use retrun key word for the private vaibale for printing outside of the class 
+
+we can pass the argument in the function call and able to modify with the help of the argument
+access,modify - getter setter
+
