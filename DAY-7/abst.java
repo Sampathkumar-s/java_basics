@@ -47,6 +47,13 @@ class sample{
         balance += amt;
     }
     void withdraw( double a){
-        balance -= a ;
+        if(balance<=a){
+            System.out.println("Insufficeint Balance");
+        }
+        else{
+            balance -= a ;
+           // System.exit(0);
+        }
+        
     }
 }
