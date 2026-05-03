@@ -7,10 +7,11 @@ class abst{
       System.out.print("Enter your pin: ");
       int pin = sc.nextInt();
         if(pin == 2006){
-           System.out.println("1.Check Balance\n2.Deposite\n3.Exit ");
-           System.out.print("Enter Your choice: ");
-           double choice = sc.nextDouble();
-           if (choice == 1)
+           while(true){
+               System.out.println("1.Check Balance\n2.Deposite\n3.Exit ");
+               System.out.print("Enter Your choice: ");
+               double choice = sc.nextDouble();
+               if (choice == 1)
            {
             System.out.println(o.getbalance());
            } 
@@ -20,11 +21,13 @@ class abst{
             double rupee = sc.nextDouble();
             o.deposit(rupee);
            }
-           else{
-
-                System.out.print("Your Transcation Completed! "); 
+            else if(choice == 3)
+           {
+            System.out.println("Transaction Completed");
+            break;
            }
-
+           }         
+           
         }
         else{
             System.out.println("Incorrect Pin!");
@@ -39,6 +42,7 @@ class sample{
 
     double getbalance(){
         return balance;
+        
     }
 
     void deposit(double amt){
