@@ -39,7 +39,7 @@ class abst{
     }
 }
 class sample{
-    private double balance = 3000.10;
+    private double balance = 0.00;
     double getbalance(){
         return balance;  
     }
