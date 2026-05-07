@@ -48,12 +48,29 @@ A comprehensive Java certification training program designed to provide a solid 
 - String manipulation with methods
 - Building practical applications (TodoList)
 
-**DAY-7: Arrays & Collections**
+**DAY-6: Arrays & Collections**
 - Array declaration and initialization
 - Array manipulation and copying
 - Array cloning techniques
 - ArrayList implementation and usage
+- StringBuilder usage
 - Working with dynamic collections
+- Practical array exercises (hospital management, library systems)
+
+**DAY-7: Abstract Classes & Advanced OOP**
+- Abstract classes and interfaces
+- Polymorphism and abstraction principles
+- Mathematical operations and utilities
+- Object-oriented design patterns
+- Real-world applications (lottery system, order tracking, profile creation)
+- Student ID management systems
+
+**DAY-8: Exception Handling**
+- Exception handling mechanisms (try-catch-finally)
+- Custom exception creation
+- Error handling best practices
+- Exception propagation and recovery
+- Building robust applications with error managementrow and throws 
 
 ## Getting Started
 
